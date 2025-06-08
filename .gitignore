@@ -1,4 +1,5 @@
-Exploração/*
-Exemplos/*
-.venv/*
+.*
+Logs
+Exploração
+Exemplos
 __pycache__/*
