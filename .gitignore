@@ -1,4 +1,5 @@
 .*
+!.gitignore
 Logs
 Exploração
 Exemplos
